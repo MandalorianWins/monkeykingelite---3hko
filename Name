@@ -1,0 +1,7 @@
+echo "# monkeykingelite---3hko" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/MandalorianWins/monkeykingelite---3hko.git
+git push -u origin main
